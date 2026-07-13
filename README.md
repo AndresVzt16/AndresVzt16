@@ -30,15 +30,15 @@
 
 ---
 
-[### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-github-readme-stats.vercel.app/api?username=AndresVzt16&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndresVzt16&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats-github-readme-stats.vercel.app/api/top-langs/?username=AndresVzt16&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndresVzt16&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>](https://github-readme-stats-eight-theta.vercel.app/api?username=AndresVzt16)
+</div>
 
 ---
 ---
