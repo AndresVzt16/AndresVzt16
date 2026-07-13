@@ -28,6 +28,8 @@
 
 <div align="center">
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -38,6 +40,7 @@
 
 </div>
 
+---
 ---
 
 ---
