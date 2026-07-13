@@ -30,14 +30,9 @@
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AndresVzt16&show_icons=true&theme=tokyonight)
-
----
----
 
 ---
 
