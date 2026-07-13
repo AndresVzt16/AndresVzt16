@@ -1,151 +1,66 @@
-# 👋 Hola, soy Andrés Vizuete
+<div align="center">
 
-## 💻 Full Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Andrés%20Vizuete&fontSize=50&animation=fadeIn" />
 
-Soy **Full Stack Developer** enfocado en el desarrollo de aplicaciones web modernas, creando soluciones eficientes, escalables y orientadas a resolver problemas reales.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+Developer;React+%7C+Node.js+%7C+Vue;Building+Modern+Web+Applications" />
 
-🎓 Graduado en **Licenciatura en Informática**.
-
-Actualmente trabajo en el desarrollo de aplicaciones utilizando tecnologías del ecosistema JavaScript/TypeScript, participando tanto en la construcción de interfaces frontend como en el desarrollo de APIs y lógica backend.
+</div>
 
 ---
 
-## 🚀 Sobre mí
+🔭 Actualmente trabajo como **Full Stack Developer**, desarrollando aplicaciones web modernas y soluciones de software utilizando tecnologías del ecosistema **JavaScript/TypeScript**.
 
-- 💻 Actualmente trabajo como **Full Stack Developer**.
-- 🌱 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en **Next.js, NestJS, TypeScript y arquitectura backend**.
-- 🎓 Graduado en **Licenciatura en Informática**.
-- 🧩 Me interesa el desarrollo de software, las buenas prácticas, la arquitectura de aplicaciones y la creación de soluciones escalables.
-- ⚡ Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.
+🌱 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en **Next.js, NestJS, TypeScript, arquitectura backend, APIs REST y buenas prácticas de desarrollo**.
+
+⚡ Soy graduado en **Licenciatura en Informática** y apasionado por crear soluciones escalables, resolver problemas y explorar nuevas tecnologías.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+<div align="center">
 
-### Frontend
+### 🛠️ Tecnologías
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,nestjs,express,tailwind,postgres,mysql,mongodb,git,docker,figma" />
 
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Vue 3
-- Tailwind CSS
-- HTML5
-- CSS3
+</div>
 
 ---
 
-### Backend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs" />
-</p>
+### 📊 GitHub Stats
 
-- Node.js
-- NestJS
-- Express.js
-- C#
-- Desarrollo de APIs REST
-- Arquitecturas backend
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### Bases de datos
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+### 🚀 Actualmente
 
-- PostgreSQL
-- MySQL
-- SQL Server
-- MongoDB
-- Diseño y optimización de consultas SQL
+💻 Construyendo aplicaciones Full Stack  
+🌱 Aprendiendo nuevas arquitecturas y patrones de diseño  
+⚙️ Mejorando mis conocimientos en backend y cloud  
+📚 Explorando tecnologías modernas del ecosistema web  
 
----
-
-### Herramientas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman" />
-</p>
-
-- Git / GitHub
-- Docker
-- Postman
-- Figma
-- Power BI
-- Git Flow
+</div>
 
 ---
 
-## 📚 Actualmente aprendiendo
+<div align="center">
 
-- Next.js
-- NestJS
-- TypeScript avanzado
-- Arquitectura de software
-- Microservicios
-- Contenedores con Docker
-- Buenas prácticas de desarrollo
+### 📫 Conecta conmigo
 
----
+<a href="https://www.linkedin.com/in/jandres-vizuete">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 📌 Proyectos destacados
+<a href="https://github.com/AndresVzt16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🚗 DeViajes
-Aplicación web para gestión y consulta de información relacionada con viajes.
-
-**Tecnologías:**
-- React
-- Node.js
-- Express
-- MongoDB
-
----
-
-### 🎵 MusicAppIPUIE
-Aplicación web enfocada en la gestión y reproducción de contenido musical.
-
-**Tecnologías:**
-- JavaScript
-- Node.js
-- Bases de datos
-
----
-
-### 🌐 App_Link_Media_MERN
-Aplicación desarrollada con el stack MERN.
-
-**Tecnologías:**
-- MongoDB
-- Express
-- React
-- Node.js
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Contacto
-
-💼 LinkedIn: TU_LINKEDIN  
-📧 Email: TU_EMAIL  
-
----
-
-⭐ Gracias por visitar mi perfil. Siempre estoy aprendiendo, construyendo y buscando mejorar como desarrollador.
+</div>
