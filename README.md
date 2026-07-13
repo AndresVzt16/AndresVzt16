@@ -1,58 +1,151 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AndresVzt16.AndresVzt16" />
+# 👋 Hola, soy Andrés Vizuete
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+bienvenido!+👋;+Soy+Andrés+Vizuete!;" />
-</h1>
+## 💻 Full Stack Developer
 
-<h3 align="center">Un apasionado desarrollador Full Stack JS de Ecuador EC</h3>
+Soy **Full Stack Developer** enfocado en el desarrollo de aplicaciones web modernas, creando soluciones eficientes, escalables y orientadas a resolver problemas reales.
 
-<br/>
+🎓 Graduado en **Licenciatura en Informática**.
 
-<div align="center">
- 
- 🔭 Actualmente realizo proyectos como freelance**
- 
- 🌱 Me encuentro aprendiendo **Next JS, Apollo, GraphQL**
+Actualmente trabajo en el desarrollo de aplicaciones utilizando tecnologías del ecosistema JavaScript/TypeScript, participando tanto en la construcción de interfaces frontend como en el desarrollo de APIs y lógica backend.
 
-⚡ Me gradue en **Licenciatura en informática**
+---
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:andresv0807@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/juan-andrés-vizuete-578b4b23a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <!-- <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a> -->
-</div>
+## 🚀 Sobre mí
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Skills ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,mysql," /><br>
-</div>
+- 💻 Actualmente trabajo como **Full Stack Developer**.
+- 🌱 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en **Next.js, NestJS, TypeScript y arquitectura backend**.
+- 🎓 Graduado en **Licenciatura en Informática**.
+- 🧩 Me interesa el desarrollo de software, las buenas prácticas, la arquitectura de aplicaciones y la creación de soluciones escalables.
+- ⚡ Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.
 
-<br/>
-<hr/>
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
+## 🛠️ Tecnologías y herramientas
 
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AndresVzt16&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AndresVzt16&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+### Frontend
 
-<br/><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind" />
+</p>
 
-<hr/>
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Vue 3
+- Tailwind CSS
+- HTML5
+- CSS3
 
+---
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs" />
+</p>
+
+- Node.js
+- NestJS
+- Express.js
+- C#
+- Desarrollo de APIs REST
+- Arquitecturas backend
+
+---
+
+### Bases de datos
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+- PostgreSQL
+- MySQL
+- SQL Server
+- MongoDB
+- Diseño y optimización de consultas SQL
+
+---
+
+### Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman" />
+</p>
+
+- Git / GitHub
+- Docker
+- Postman
+- Figma
+- Power BI
+- Git Flow
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Next.js
+- NestJS
+- TypeScript avanzado
+- Arquitectura de software
+- Microservicios
+- Contenedores con Docker
+- Buenas prácticas de desarrollo
+
+---
+
+## 📌 Proyectos destacados
+
+### 🚗 DeViajes
+Aplicación web para gestión y consulta de información relacionada con viajes.
+
+**Tecnologías:**
+- React
+- Node.js
+- Express
+- MongoDB
+
+---
+
+### 🎵 MusicAppIPUIE
+Aplicación web enfocada en la gestión y reproducción de contenido musical.
+
+**Tecnologías:**
+- JavaScript
+- Node.js
+- Bases de datos
+
+---
+
+### 🌐 App_Link_Media_MERN
+Aplicación desarrollada con el stack MERN.
+
+**Tecnologías:**
+- MongoDB
+- Express
+- React
+- Node.js
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contacto
+
+💼 LinkedIn: TU_LINKEDIN  
+📧 Email: TU_EMAIL  
+
+---
+
+⭐ Gracias por visitar mi perfil. Siempre estoy aprendiendo, construyendo y buscando mejorar como desarrollador.
