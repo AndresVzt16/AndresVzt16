@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+[### 📊 GitHub Stats
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats-github-readme-stats.vercel.app/api/top-langs/?username=AndresVzt16&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
+</div>](https://github-readme-stats-eight-theta.vercel.app/api?username=AndresVzt16)
 
 ---
 ---
